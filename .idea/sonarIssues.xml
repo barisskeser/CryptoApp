@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build/tmp/kapt3/stubs/debug/com/baris/cleanarccryptoapp/domain/use_case/get_coin/GetCoinUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/CoinApplication.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/X.puml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/common/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/common/Resource.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/data/remote/CoinPaprikaApi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/data/remote/dto/CoinDetailDto.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/data/remote/dto/CoinDto.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/data/repository/CoinRepositoryImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/di/AppModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/domain/model/Coin.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/domain/model/CoinDetail.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/domain/repository/CoinRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/domain/use_case/get_coin/GetCoinUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/domain/use_case/get_coins/GetCoinsUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/presentation/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/presentation/Screen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/presentation/coin_detail/CoinDetailScreen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/presentation/coin_detail/CoinDetailState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/presentation/coin_detail/CoinDetailViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/presentation/coin_detail/CoinListState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/presentation/coin_detail/components/CoinTag.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/presentation/coin_detail/components/TeamListItem.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/presentation/coin_list/CoinListScreen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/presentation/coin_list/CoinListState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/presentation/coin_list/CoinListViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/presentation/coin_list/components/CoinListItem.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/presentation/coin_list/state/CoinListState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/baris/cleanarccryptoapp/presentation/coin_list/viewmodel/CoinListViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/cleanarccryptoapp/common/Resource.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/cleanarccryptoapp/data/remote/CoinPaprikaApi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/cleanarccryptoapp/data/remote/dto/CoinDetailDto.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/cleanarccryptoapp/data/remote/dto/CoinDto.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/cleanarccryptoapp/data/repository/CoinRepositoryImp.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/cleanarccryptoapp/data/repository/CoinRepositoryImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/cleanarccryptoapp/domain/model/Coin.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/cleanarccryptoapp/domain/model/Coin.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/cleanarccryptoapp/domain/model/CoinDetail.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/cleanarccryptoapp/domain/repository/CoinRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/cleanarccryptoapp/domain/use_case/get_coin/GetCoinUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/cleanarccryptoapp/domain/use_case/get_coins/GetCoinsUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/cleanarccryptoapp/presentation/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/build/generated/source/buildConfig/debug/com/bbn/movitfriends/BuildConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/build/generated/source/kapt/debug/com/bbn/movitfriends/presentation/Hilt_MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/androidTest/java/com/bbn/movitfriends/ExampleInstrumentedTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/baris/movitfriends/common/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/baris/movitfriends/domain/model/Location.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/baris/movitfriends/domain/repository/LocationRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/baris/movitfriends/domain/repository/UserRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/baris/movitfriends/presentation/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/MovitApp.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/common/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/common/Resource.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/common/Util.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/data/repository/ChatRepositoryImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/data/repository/Filter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/data/repository/FirbaseQueryLiveData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/data/repository/FriendsRepositoryImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/data/repository/MessageRepositoryImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/data/repository/RequestRepositoryImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/data/repository/UserRepositoryImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/di/AppModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/model/Chat.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/model/Location.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/model/Message.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/model/Request.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/model/User.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/model/UserLocation.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/model/UserMessage.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/model/relation/UserLocation.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/model/relation/UserMessage.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/repository/ChatRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/repository/FriendsRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/repository/LocationRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/repository/MessageRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/repository/RequestRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/repository/UserRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/use_case/GetChatUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/use_case/GetChatsUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/use_case/GetFriendsUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/use_case/GetMessageUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/use_case/GetRequestsUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/use_case/GetUserUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/use_case/GetUsersUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/use_case/GetUsersUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/use_case/UserUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/domain/use_case/UsersUseCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/presentation/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/presentation/Screen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/presentation/chat/ChatState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/presentation/chat/ChatViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/presentation/friends/FriendsState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/presentation/friends/FriendsViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/presentation/map/MapScreen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/presentation/map/MapViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/presentation/message/MessageScreen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/presentation/message/MessageState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/presentation/message/MessageViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/presentation/profile/ProfileState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/presentation/profile/ProfileViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/presentation/requests/RequestState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/presentation/requests/RequestViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/presentation/settings/block_list/BlockListScreen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/presentation/settings/update/update_profile.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/bbn/movitfriends/presentation/settings/update_profile/UpdateProfileScreen.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/example/movitfriends/MovitApp.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/example/movitfriends/common/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/example/movitfriends/common/Resource.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/example/movitfriends/di/AppModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/example/movitfriends/domain/model/Location.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/example/movitfriends/domain/repository/LocationRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/java/com/example/movitfriends/domain/repository/UserRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/app/src/main/res/layout/item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends2/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends2/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends2/app/src/main/java/com/example/movit_friends/MovitApp.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends2/app/src/main/java/com/example/movit_friends/common/Constants.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends2/app/src/main/java/com/example/movit_friends/presentation/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../MovitFriends2/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
