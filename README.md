@@ -1,6 +1,6 @@
 # CryptoApp
 
-## Developed with Kotlin Using:
+## Developed with:
 - MVVM Architecture
 - Jetpack Compose
 - Kotlin Coroutines
